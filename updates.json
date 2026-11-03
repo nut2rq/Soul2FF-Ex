@@ -1,0 +1,13 @@
+{
+  "addons": {
+    "soul2-mobile-extension@example.invalid": {
+      "updates": [
+        {
+          "version": "0.3.0",
+          "update_link": "https://github.com/nut2rq/Soul2FF-Ex/releases/download/v0.3.0/Soul2-Mobile-Extension-0.3.0.xpi",
+          "update_info_url": "https://github.com/nut2rq/Soul2FF-Ex/releases/tag/v0.3.0"
+        }
+      ]
+    }
+  }
+}
